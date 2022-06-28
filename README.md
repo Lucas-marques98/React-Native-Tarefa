@@ -1,3 +1,12 @@
+<div id="badges"  align="center">
+
+[![Typing SVG](https://pt.bloggif.com/tmp/1037e4f32c537d0efbccefb4a8ee624f/text.gif?1656380790)](https://github.com/Lucas-marques98)
+
+  </div>
+
+
+
+
 
 
 ### My app Tarefas
@@ -7,4 +16,4 @@
 
 
 
-### Apenas um App básico Para desenvolvimento Pessoal.
+### Apenas um Tela básica Para desenvolvimento Pessoal. 📚✔
